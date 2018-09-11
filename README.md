@@ -1,4 +1,6 @@
 # pythonchat
-Chat in Python3 using PyQt5.
+Chat in Python3 using PyQt5 (made during Geekbrains's Python course).
 
-April, 2018
+To use, start chat/server.py, then run chat/client.py as many as you need.
+
+April, 2018.
