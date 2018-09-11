@@ -1,0 +1,4 @@
+2018-09-11 23:11:03,641 - INFO - test_log - conn_info - CONNECTED:('127.0.0.1', 65229)
+2018-09-11 23:11:07,143 - INFO - test_log - conn_info - CONNECTED:('127.0.0.1', 65230)
+2018-09-11 23:11:17,603 - INFO - test_log - disconn_info - DISCONNECTED:('127.0.0.1', 65229)
+2018-09-11 23:11:18,630 - INFO - test_log - disconn_info - DISCONNECTED:('127.0.0.1', 65230)
